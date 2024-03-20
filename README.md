@@ -1,4 +1,4 @@
-# Language-Transliteration-
+# Language-Transliteration
 Project on Language Transliteration 
 
 # More about the project
